@@ -19,3 +19,4 @@ Ziel ist es die Standards der GDI-DE durch den IT-Planungsrat verbindlich beschl
 
 Die Arbeitsversion des Standards findet sich unter https://gdi-de.github.io/arch-gdi-de-vg-dls/ .
 Sie wird automatisch durch eine [github-action](https://github.com/gdi-de/arch-gdi-de-vg-dls/blob/main/.github/workflows/static.yml) nach einem commit aus dem main branch erstellt.
+Es ist nur Test
