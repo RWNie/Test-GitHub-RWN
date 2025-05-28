@@ -49,10 +49,15 @@ Hier https://github.com/login kann mann einen Account registrieren.
 
 
 
-Die Kommentare werden über das Ticketsystem von github gesammelt und im Anschluss vom AK Geodienste bearbeitet. 
+Änlich wie Redmine, auf das Ticketsystem von GitHub mann kann Tickets als Issues erstellen und selber konfigurieren.
+Diese Vorgehensweise erleichtert die Wertung und Bearbeitung der einzelnen Anmerkungen und macht das Verfahren transparent.
+
 ![Screenshot 2025-05-27 103738](https://github.com/user-attachments/assets/076e7760-418b-42d2-927c-174e123cf02d)
 
 ![Screenshot 2025-05-27 103547](https://github.com/user-attachments/assets/6053b528-d222-4200-ba56-c6595f56f710)
+
+
+### Vorbreitung/Test
 
 
 
