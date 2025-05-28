@@ -12,15 +12,15 @@ Man verspricht sich davon eine Verbesserung der Qualität des Dokumentes, sowie 
 
 
 ### Workflow
-Es gibt 3 Repositories:
+Es gibt 3 Repositories in der Arbeitskreis Geodienste (seihe Screenshot):
 1. arch-gdi-de-vg-dls: Architektur der Geodateninfrastruktur Deutschland - Vorgaben der GDI-DE zur Bereitstellung von Downloaddiensten
 
-   der Repository ist unter https://github.com/gdi-de/arch-gdi-de-vg-dls zu finden und ist veröffentlicht.
-   Den Link haben wir alle in der Mail von Armin Retterath bekommen
+   Der Repository ist unter https://github.com/gdi-de/arch-gdi-de-vg-dls zu finden und ist veröffentlicht.
+   Den Link haben wir alle in der Mail von Armin Retterath bekommen. Wir sollen die Arbeitsdokument (https://gdi-de.github.io/arch-gdi-de-vg-dls/) durchlesen und die Kommentare über das [Ticketsystem](https://github.com/gdi-de/arch-gdi-de-vg-dls/issues) von GitHub eintragen.
 
 2. gdi-de-dokumente: Gemeinschaftsbereich zur Verwaltung, Diskussion und Information der GDI-DE Dokumente
 
-   der Repository ist unter https://github.com/gdi-de/gdi-de-dokumente zu finden und ist veröffentlicht.
+   Der Repository ist unter https://github.com/gdi-de/gdi-de-dokumente zu finden und ist veröffentlicht.
 
 3. AK-Geodienste: Arbeitsumgebung des AK Geodienste der GDI-DE
 
@@ -37,11 +37,11 @@ Es gibt 3 Repositories:
 
 
 
-Das Dokument "Architektur der Geodateninfrastruktur Deutschland - Vorgaben der GDI-DE zur Bereitstellung von Downloaddiensten" (https://gdi-de.github.io/arch-gdi-de-vg-dls/) wurde hier als "vorgaben_downloaddienste_respec.html" im HTML Code geschrieben. Sie wird automatisch durch eine github-action nach einem commit aus dem main branch (die HTML Code) erstellt.
-Das Dokument wird einem zweistufigen Review-Prozess unterzogen. Es sollen die Kommentare und Änderungswünsche jeweils über das Ticketsystem von GitHub eingebracht werden. Eine Anleitung zur Erstellung von Tickets ist hier [Hilfe-Video zur Erstellung von Tickets](https://gdi-de.github.io/arch-gdi-de-vg-dls/media/create_ticket.mp4) zu finden.
+Das Dokument "Architektur der Geodateninfrastruktur Deutschland - Vorgaben der GDI-DE zur Bereitstellung von Downloaddiensten" (https://gdi-de.github.io/arch-gdi-de-vg-dls/) wurde hier als "vorgaben_downloaddienste_respec.html" im HTML Code geschrieben. Sie wird automatisch durch eine GitHub-action nach einem commit aus dem main branch (die HTML Code) erstellt.
+Das Dokument soll einen zweistufigen Reviewprozess durchlaufen. Es sollen die Kommentare und Änderungswünsche jeweils über das Ticketsystem von GitHub eingebracht werden. Eine Anleitung zur Erstellung von Tickets ist hier [Hilfe-Video zur Erstellung von Tickets](https://gdi-de.github.io/arch-gdi-de-vg-dls/media/create_ticket.mp4) zu finden.
 
 Um die Kommentare über das Ticketsystem von GitHub zu erstellen, benötigt man zwingend einen GitHub-Account.
-Hier https://github.com/login können Sie einen Account registrieren. https://github.com/login
+Hier https://github.com/login kann mann einen Account registrieren.
 
 ![Screenshot 2025-05-27 103202](https://github.com/user-attachments/assets/9144e6e8-f08a-426f-9020-46ea5836fc10)
 
@@ -49,7 +49,7 @@ Hier https://github.com/login können Sie einen Account registrieren. https://gi
 
 
 
-
+Die Kommentare werden über das Ticketsystem von github gesammelt und im Anschluss vom AK Geodienste bearbeitet. 
 ![Screenshot 2025-05-27 103738](https://github.com/user-attachments/assets/076e7760-418b-42d2-927c-174e123cf02d)
 
 ![Screenshot 2025-05-27 103547](https://github.com/user-attachments/assets/6053b528-d222-4200-ba56-c6595f56f710)
