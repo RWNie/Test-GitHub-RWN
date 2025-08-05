@@ -12,7 +12,7 @@ Man verspricht sich davon eine Verbesserung der Qualität des Dokumentes, sowie 
 
 
 ### Workflow
-Es gibt 3 Repositories in der Arbeitskreis Geodienste (seihe Screenshot):
+Es gibt 3 Repositories in der Arbeitskreis Geodienste (siehe Screenshots):
 1. arch-gdi-de-vg-dls: Architektur der Geodateninfrastruktur Deutschland - Vorgaben der GDI-DE zur Bereitstellung von Downloaddiensten
 
    Der Repository ist unter https://github.com/gdi-de/arch-gdi-de-vg-dls zu finden und ist veröffentlicht.
@@ -49,7 +49,7 @@ Hier https://github.com/login kann mann einen Account registrieren.
 
 
 
-Änlich wie Redmine, auf das Ticketsystem von GitHub mann kann Tickets als Issues erstellen und selber konfigurieren.
+Änlich wie Redmine, auf das Ticketsystem von GitHub kann mann Tickets als Issues erstellen und selber konfigurieren.
 Diese Vorgehensweise erleichtert die Wertung und Bearbeitung der einzelnen Anmerkungen und macht das Verfahren transparent.
 
 ![Screenshot 2025-05-27 103738](https://github.com/user-attachments/assets/076e7760-418b-42d2-927c-174e123cf02d)
