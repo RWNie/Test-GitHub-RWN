@@ -57,7 +57,10 @@ Diese Vorgehensweise erleichtert die Wertung und Bearbeitung der einzelnen Anmer
 ![Screenshot 2025-05-27 103547](https://github.com/user-attachments/assets/6053b528-d222-4200-ba56-c6595f56f710)
 
 
-### Vorbreitung/Test
+### Zusammenfassung
+1. Am Anfang kann es etwas kompliziert sein, z.B. die Dateinen und die Issues zu erstellen. Aber sobald wir mal selber probiert haben, ist alles relativ einfach.
+2. Die Nutzung von GitHub ist für uns effizienter und bequemer, da alle Funktionen (Organisation, Protokoll, Sitzung Plannung, Konventionen) in einem System auf einer Plattform gebündelt sind. Diese steigert nicht nur unsere Arbeitseffizient, sondern hilft uns auch, Kommentare und Feedback besser auszutauschen.
+3. Damit alle GitHub ohne Hindernisse für unsere Arbeit nutzen können, benötigen wir möglicherweise technische Schulungen oder den Erfahrungsaustausch mit anderen Kollegen. 
 
 
 
